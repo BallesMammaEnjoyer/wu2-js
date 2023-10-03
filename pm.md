@@ -1,19 +1,21 @@
 # PM Webbprojekt
 
-Författare och datum.
+Mille Tedebring Thysell 03/10/23
+
 
 ## Vad
 
-Här beskriver du kortfattat vad du har arbetat med.
+Jag har typ jobbat med att beskriva några av javascript sakerna ish
 
 ## Hur
 
-Här beskriver du hur du har arbetat med projektet. Vilka verktyg och metoder har du använt.
+Jag arbetade genom att göra det, använde inge särkilt-
 
 ## Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
+inget har gått bra 
 
 ## Negativa erfarenheter
 
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Jag fattade inte uppgiften alls och gav upp jag behöver google för att koda dock förståd också inte vad jag skulle göra
+
