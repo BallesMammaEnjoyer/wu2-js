@@ -62,12 +62,15 @@ function controlStructures(element) {
 
 function arraysAndObjects (element) {
   // kod för att visa vad du lärt dig om arrays och objekt
+  // arrays är som flera variabler under samma namn för att enklare hålla på med massa värden samtidigt
+  
   console.log(['arrays', {and: 'objects'}])
 }
 
 function domAndEvents (element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
+  element.querySelector('#knupp')  
   console.log(element, 'lyssna efter event för att ändra element')
 }
 
