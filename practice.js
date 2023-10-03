@@ -70,7 +70,12 @@ function arraysAndObjects (element) {
 function domAndEvents (element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
-  element.querySelector('#knupp')  
+  let knupp
+  element.querySelector('button')
+  knupp.addEventListener('click', 'button'){
+
+    
+  }
   console.log(element, 'lyssna efter event för att ändra element')
 }
 
