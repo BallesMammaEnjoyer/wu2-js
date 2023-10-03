@@ -19,18 +19,38 @@ export function setupPractice (element) {
 function varsAndTypes(element) {
   // kod för att visa vad du lärt dig om variabler och typer
   let varsAndTypes = 'varsAndTypes'
-  console.log(varsAndTypes, typeof(varsAndTypes))
+  let variabel = 1 
+  // "let" gör en variabel som kan hålla ett värde, t.ex siffra eller text. Den kan ändras på senare.
+  const konstant = 1
+  // "const" gör en konstant som inte kan ändras på.
+  variabel = variabel + konstant
+  // variabler kan plussas ihop och ändras på olika sätt
+  console.log(variabel, varsAndTypes, typeof(varsAndTypes))
 }
 
 function operators(element) {
   // kod för att visa vad du lärt dig om operatorer
-  console.log('operators === ', 1 === 1)
+  let x = 1 
+  if (x = 1){
+    x = x + 1
+  }
+  // "=" definerar eller kollar vad en variabel är
+  if (x < 3){
+    x = x + 1
+  }
+  // "<" kollar om värdet till höger är större än det till vänster och ger ett true/false svar
+  if (x > 2){
+    x = x + 1
+  }
+  // ">" kollar om värdet till vänster är större än det till höger och ger ett true/false svar
+  console.log(x,'operators === ', 1 === 1)
 }
 
 function controlStructures(element) {
   // kod för att visa vad du lärt dig om kontrollstrukturer
   // if och loopar
   let controlStructures = 'controlStructures'
+  // if satser är 
   console.log(controlStructures, controlStructures ? 'if' : 'loopar')
 }
 
