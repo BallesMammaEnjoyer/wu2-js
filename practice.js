@@ -50,7 +50,13 @@ function controlStructures(element) {
   // kod för att visa vad du lärt dig om kontrollstrukturer
   // if och loopar
   let controlStructures = 'controlStructures'
-  // if satser är 
+  let x = 1 
+  if (x>0){
+    x = x - 1
+  }
+  // if satser kollar  om en viss sak är sann och isf gör något
+
+  // for-loops gör en sak flera gånger så länge en viss sak är sann
   console.log(controlStructures, controlStructures ? 'if' : 'loopar')
 }
 
